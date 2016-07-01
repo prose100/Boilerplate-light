@@ -1,6 +1,6 @@
 # HTML, CSS, and JS Boilerplate
 
-This boilerplate is lightweight kickstart for HTML, CSS, and JS projects.
+This boilerplate is a lightweight kickstart for HTML, CSS, and JS projects.
 
 ## Overview
 
