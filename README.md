@@ -13,7 +13,7 @@ This boilerplate is a lightweight kickstart for HTML, CSS, and JS projects.
 
 ### Downloading the latest changes
 
- Simply [Download](https://github.com/prose100/boilerplate/zipball/master) or Fork this repository
+ Simply [Download](https://github.com/prose100/boilerplate-light/zipball/master) or Fork this repository
 
 ### If you want to build the boilerplate, using Grunt's features
  1. Install [NodeJS](http://nodejs.org).
